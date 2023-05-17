@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-g++ -g -Wall -rdynamic CMakeFiles/select-cli.dir/select-cli.cpp.o -o select-cli 

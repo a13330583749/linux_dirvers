@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/06_beep/beep.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/gtq2/linux/drivers_code/06_beep/beep.ko /home/gtq2/linux/drivers_code/06_beep/beep.o /home/gtq2/linux/drivers_code/06_beep/beep.mod.o

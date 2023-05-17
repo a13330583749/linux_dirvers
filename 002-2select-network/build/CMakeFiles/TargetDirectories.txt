@@ -1,0 +1,4 @@
+/home/gtq2/linux/drivers_code/002-2select-network/build/CMakeFiles/select-ser.dir
+/home/gtq2/linux/drivers_code/002-2select-network/build/CMakeFiles/select-cli.dir
+/home/gtq2/linux/drivers_code/002-2select-network/build/CMakeFiles/edit_cache.dir
+/home/gtq2/linux/drivers_code/002-2select-network/build/CMakeFiles/rebuild_cache.dir

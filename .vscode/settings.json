@@ -1,0 +1,42 @@
+{
+    // "search.actionsPosition":,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.o":true,
+        "**/*.su":true, 
+        "**/*.cmd":true,
+        "Documentation":true,      
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,  
+        "**/*.o":true,
+        "**/*.su":true, 
+        "**/*.cmd":true,
+        "Documentation":true, 
+    },
+    "files.associations": {
+        "*.json": "json",
+        "ide.h": "c",
+        "kernel.h": "c",
+        "types.h": "c",
+        "sysinfo.h": "c",
+        "typeinfo": "c",
+        "kdev_t.h": "c",
+        "cdev.h": "c",
+        "fs.h": "c",
+        "delay.h": "c",
+        "gpio.h": "c",
+        "uaccess.h": "c",
+        "map.h": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "init.h": "c"
+    },
+    // "cmake.sourceDirectory": "${workspaceFolder}/003_newchrbase"
+}

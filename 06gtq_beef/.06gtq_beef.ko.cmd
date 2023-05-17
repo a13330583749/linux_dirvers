@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/06gtq_beef/06gtq_beef.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/gtq2/linux/drivers_code/06gtq_beef/06gtq_beef.ko /home/gtq2/linux/drivers_code/06gtq_beef/06gtq_beef.o /home/gtq2/linux/drivers_code/06gtq_beef/06gtq_beef.mod.o

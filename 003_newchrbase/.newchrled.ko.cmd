@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/003_newchrbase/newchrled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/gtq2/linux/drivers_code/003_newchrbase/newchrled.ko /home/gtq2/linux/drivers_code/003_newchrbase/newchrled.o /home/gtq2/linux/drivers_code/003_newchrbase/newchrled.mod.o

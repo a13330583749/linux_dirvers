@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/11key/gtq-key.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/gtq2/linux/drivers_code/11key/gtq-key.ko /home/gtq2/linux/drivers_code/11key/gtq-key.o /home/gtq2/linux/drivers_code/11key/gtq-key.mod.o

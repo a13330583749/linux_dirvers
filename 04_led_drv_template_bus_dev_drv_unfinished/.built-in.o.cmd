@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/04_led_drv_template_bus_dev_drv_unfinished/built-in.o :=  rm -f /home/gtq2/linux/drivers_code/04_led_drv_template_bus_dev_drv_unfinished/built-in.o; arm-linux-gnueabihf-ar rcsD /home/gtq2/linux/drivers_code/04_led_drv_template_bus_dev_drv_unfinished/built-in.o

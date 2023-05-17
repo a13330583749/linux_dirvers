@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-g++ -g -Wall -rdynamic CMakeFiles/select-ser.dir/select-ser.cpp.o -o select-ser 

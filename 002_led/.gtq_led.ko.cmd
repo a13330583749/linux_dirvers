@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/002_led/gtq_led.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/gtq2/linux/drivers_code/002_led/gtq_led.ko /home/gtq2/linux/drivers_code/002_led/gtq_led.o /home/gtq2/linux/drivers_code/002_led/gtq_led.mod.o

@@ -1,0 +1,3 @@
+/home/gtq2/linux/drivers_code/002-1cmake-select/build/CMakeFiles/main.dir
+/home/gtq2/linux/drivers_code/002-1cmake-select/build/CMakeFiles/edit_cache.dir
+/home/gtq2/linux/drivers_code/002-1cmake-select/build/CMakeFiles/rebuild_cache.dir

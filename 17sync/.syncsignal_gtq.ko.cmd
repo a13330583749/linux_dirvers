@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/17sync/syncsignal_gtq.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/gtq2/linux/drivers_code/17sync/syncsignal_gtq.ko /home/gtq2/linux/drivers_code/17sync/syncsignal_gtq.o /home/gtq2/linux/drivers_code/17sync/syncsignal_gtq.mod.o

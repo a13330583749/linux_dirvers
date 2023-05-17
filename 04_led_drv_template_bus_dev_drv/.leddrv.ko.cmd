@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/04_led_drv_template_bus_dev_drv/leddrv.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/gtq2/linux/drivers_code/04_led_drv_template_bus_dev_drv/leddrv.ko /home/gtq2/linux/drivers_code/04_led_drv_template_bus_dev_drv/leddrv.o /home/gtq2/linux/drivers_code/04_led_drv_template_bus_dev_drv/leddrv.mod.o

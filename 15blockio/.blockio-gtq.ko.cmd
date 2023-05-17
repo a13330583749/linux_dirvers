@@ -1,0 +1,1 @@
+cmd_/home/gtq2/linux/drivers_code/15blockio/blockio-gtq.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/gtq2/linux/drivers_code/15blockio/blockio-gtq.ko /home/gtq2/linux/drivers_code/15blockio/blockio-gtq.o /home/gtq2/linux/drivers_code/15blockio/blockio-gtq.mod.o
